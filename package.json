@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cz-jira-smart-commit (v2.0.1)](https://github.com/commitizen/cz-jira-smart-commit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cz-jira-smart-commit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cz-jira-smart-commit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cz-jira-smart-commit.svg)](https://travis-ci.org/npmtest/node-npmtest-cz-jira-smart-commit)",
+    "description": "#### basic test coverage for  [cz-jira-smart-commit (v2.0.1)](https://github.com/commitizen/cz-jira-smart-commit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cz-jira-smart-commit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cz-jira-smart-commit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cz-jira-smart-commit.svg)](https://travis-ci.org/npmtest/node-npmtest-cz-jira-smart-commit)",
     "devDependencies": {
         "cz-jira-smart-commit": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
